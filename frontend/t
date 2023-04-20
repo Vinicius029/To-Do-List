@@ -1,0 +1,24 @@
+<tr>
+                    <td>Titulo</td>
+                    <td>Criada</td>
+                    <td>
+                        <select>
+                            <option value="pendente">Pendente</option>
+                            <option value="andamento">Em andamento</option>
+                            <option value="concluido">Concluido</option>
+                        </select>
+                    </td>
+                    <td>
+                        <button class="btn-action">
+                            <span class="material-symbols-outlined">
+                                edit
+                            </span>
+                        </button>
+                        <button class="btn-action">
+                            <span class="material-symbols-outlined">
+                                delete
+                            </span>
+                        </button>
+                    </td>
+                </tr>
+          
